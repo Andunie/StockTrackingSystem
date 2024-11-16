@@ -1,0 +1,12 @@
+C:\Users\Ilhan\source\repos\AspireBorsa\AspireBorsa.ServiceDefaults\bin\Debug\net8.0\AspireBorsa.ServiceDefaults.deps.json
+C:\Users\Ilhan\source\repos\AspireBorsa\AspireBorsa.ServiceDefaults\bin\Debug\net8.0\AspireBorsa.ServiceDefaults.dll
+C:\Users\Ilhan\source\repos\AspireBorsa\AspireBorsa.ServiceDefaults\bin\Debug\net8.0\AspireBorsa.ServiceDefaults.pdb
+C:\Users\Ilhan\source\repos\AspireBorsa\AspireBorsa.ServiceDefaults\obj\Debug\net8.0\AspireBorsa.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\Ilhan\source\repos\AspireBorsa\AspireBorsa.ServiceDefaults\obj\Debug\net8.0\AspireBorsa.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilhan\source\repos\AspireBorsa\AspireBorsa.ServiceDefaults\obj\Debug\net8.0\AspireBorsa.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\Ilhan\source\repos\AspireBorsa\AspireBorsa.ServiceDefaults\obj\Debug\net8.0\AspireBorsa.ServiceDefaults.AssemblyInfo.cs
+C:\Users\Ilhan\source\repos\AspireBorsa\AspireBorsa.ServiceDefaults\obj\Debug\net8.0\AspireBorsa.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\Ilhan\source\repos\AspireBorsa\AspireBorsa.ServiceDefaults\obj\Debug\net8.0\AspireBorsa.ServiceDefaults.dll
+C:\Users\Ilhan\source\repos\AspireBorsa\AspireBorsa.ServiceDefaults\obj\Debug\net8.0\refint\AspireBorsa.ServiceDefaults.dll
+C:\Users\Ilhan\source\repos\AspireBorsa\AspireBorsa.ServiceDefaults\obj\Debug\net8.0\AspireBorsa.ServiceDefaults.pdb
+C:\Users\Ilhan\source\repos\AspireBorsa\AspireBorsa.ServiceDefaults\obj\Debug\net8.0\ref\AspireBorsa.ServiceDefaults.dll

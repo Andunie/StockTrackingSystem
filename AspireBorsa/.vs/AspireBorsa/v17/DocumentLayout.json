@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ilhan\\source\\repos\\AspireBorsa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F303991-3E9B-40E0-BAAE-F996EC33F6C0}|AspireBorsa.Web\\AspireBorsa.Web.csproj|c:\\users\\ilhan\\source\\repos\\aspireborsa\\aspireborsa.web\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F303991-3E9B-40E0-BAAE-F996EC33F6C0}|AspireBorsa.Web\\AspireBorsa.Web.csproj|solutionrelative:aspireborsa.web\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F303991-3E9B-40E0-BAAE-F996EC33F6C0}|AspireBorsa.Web\\AspireBorsa.Web.csproj|c:\\users\\ilhan\\source\\repos\\aspireborsa\\aspireborsa.web\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F303991-3E9B-40E0-BAAE-F996EC33F6C0}|AspireBorsa.Web\\AspireBorsa.Web.csproj|solutionrelative:aspireborsa.web\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F303991-3E9B-40E0-BAAE-F996EC33F6C0}|AspireBorsa.Web\\AspireBorsa.Web.csproj|c:\\users\\ilhan\\source\\repos\\aspireborsa\\aspireborsa.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F303991-3E9B-40E0-BAAE-F996EC33F6C0}|AspireBorsa.Web\\AspireBorsa.Web.csproj|solutionrelative:aspireborsa.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F303991-3E9B-40E0-BAAE-F996EC33F6C0}|AspireBorsa.Web\\AspireBorsa.Web.csproj|c:\\users\\ilhan\\source\\repos\\aspireborsa\\aspireborsa.web\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F303991-3E9B-40E0-BAAE-F996EC33F6C0}|AspireBorsa.Web\\AspireBorsa.Web.csproj|solutionrelative:aspireborsa.web\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8059778B-3A11-4888-933E-79802EE4BFFB}|AspireBorsa.ApiService\\AspireBorsa.ApiService.csproj|c:\\users\\ilhan\\source\\repos\\aspireborsa\\aspireborsa.apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8059778B-3A11-4888-933E-79802EE4BFFB}|AspireBorsa.ApiService\\AspireBorsa.ApiService.csproj|solutionrelative:aspireborsa.apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8059778B-3A11-4888-933E-79802EE4BFFB}|AspireBorsa.ApiService\\AspireBorsa.ApiService.csproj|c:\\users\\ilhan\\source\\repos\\aspireborsa\\aspireborsa.apiservice\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8059778B-3A11-4888-933E-79802EE4BFFB}|AspireBorsa.ApiService\\AspireBorsa.ApiService.csproj|solutionrelative:aspireborsa.apiservice\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8059778B-3A11-4888-933E-79802EE4BFFB}|AspireBorsa.ApiService\\AspireBorsa.ApiService.csproj|c:\\users\\ilhan\\source\\repos\\aspireborsa\\aspireborsa.apiservice\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8059778B-3A11-4888-933E-79802EE4BFFB}|AspireBorsa.ApiService\\AspireBorsa.ApiService.csproj|solutionrelative:aspireborsa.apiservice\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F303991-3E9B-40E0-BAAE-F996EC33F6C0}|AspireBorsa.Web\\AspireBorsa.Web.csproj|c:\\users\\ilhan\\source\\repos\\aspireborsa\\aspireborsa.web\\model\\viewstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F303991-3E9B-40E0-BAAE-F996EC33F6C0}|AspireBorsa.Web\\AspireBorsa.Web.csproj|solutionrelative:aspireborsa.web\\model\\viewstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F303991-3E9B-40E0-BAAE-F996EC33F6C0}|AspireBorsa.Web\\AspireBorsa.Web.csproj|c:\\users\\ilhan\\source\\repos\\aspireborsa\\aspireborsa.web\\components\\pages\\canliborsa.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F303991-3E9B-40E0-BAAE-F996EC33F6C0}|AspireBorsa.Web\\AspireBorsa.Web.csproj|solutionrelative:aspireborsa.web\\components\\pages\\canliborsa.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 377,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Ilhan\\source\\repos\\AspireBorsa\\AspireBorsa.Web\\Components\\App.razor",
+              "RelativeDocumentMoniker": "AspireBorsa.Web\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\Ilhan\\source\\repos\\AspireBorsa\\AspireBorsa.Web\\Components\\App.razor",
+              "RelativeToolTip": "AspireBorsa.Web\\Components\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T20:49:30.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Ilhan\\source\\repos\\AspireBorsa\\AspireBorsa.Web\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "AspireBorsa.Web\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Ilhan\\source\\repos\\AspireBorsa\\AspireBorsa.Web\\Components\\_Imports.razor",
+              "RelativeToolTip": "AspireBorsa.Web\\Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T20:48:52.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ilhan\\source\\repos\\AspireBorsa\\AspireBorsa.ApiService\\Program.cs",
+              "RelativeDocumentMoniker": "AspireBorsa.ApiService\\Program.cs",
+              "ToolTip": "C:\\Users\\Ilhan\\source\\repos\\AspireBorsa\\AspireBorsa.ApiService\\Program.cs",
+              "RelativeToolTip": "AspireBorsa.ApiService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T16:05:38.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "C:\\Users\\Ilhan\\source\\repos\\AspireBorsa\\AspireBorsa.ApiService\\Models\\Stock.cs",
+              "RelativeDocumentMoniker": "AspireBorsa.ApiService\\Models\\Stock.cs",
+              "ToolTip": "C:\\Users\\Ilhan\\source\\repos\\AspireBorsa\\AspireBorsa.ApiService\\Models\\Stock.cs",
+              "RelativeToolTip": "AspireBorsa.ApiService\\Models\\Stock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:53:56.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ilhan\\source\\repos\\AspireBorsa\\AspireBorsa.ApiService\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AspireBorsa.ApiService\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Ilhan\\source\\repos\\AspireBorsa\\AspireBorsa.ApiService\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "AspireBorsa.ApiService\\Models\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:49:56.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ilhan\\source\\repos\\AspireBorsa\\AspireBorsa.Web\\Program.cs",
+              "RelativeDocumentMoniker": "AspireBorsa.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Ilhan\\source\\repos\\AspireBorsa\\AspireBorsa.Web\\Program.cs",
+              "RelativeToolTip": "AspireBorsa.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:49:31.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ilhan\\source\\repos\\AspireBorsa\\AspireBorsa.Web\\Model\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AspireBorsa.Web\\Model\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Ilhan\\source\\repos\\AspireBorsa\\AspireBorsa.Web\\Model\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AspireBorsa.Web\\Model\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:47:08.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ViewStock.cs",
+              "DocumentMoniker": "C:\\Users\\Ilhan\\source\\repos\\AspireBorsa\\AspireBorsa.Web\\Model\\ViewStock.cs",
+              "RelativeDocumentMoniker": "AspireBorsa.Web\\Model\\ViewStock.cs",
+              "ToolTip": "C:\\Users\\Ilhan\\source\\repos\\AspireBorsa\\AspireBorsa.Web\\Model\\ViewStock.cs",
+              "RelativeToolTip": "AspireBorsa.Web\\Model\\ViewStock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T12:39:22.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Canliborsa.razor",
+              "DocumentMoniker": "C:\\Users\\Ilhan\\source\\repos\\AspireBorsa\\AspireBorsa.Web\\Components\\Pages\\Canliborsa.razor",
+              "RelativeDocumentMoniker": "AspireBorsa.Web\\Components\\Pages\\Canliborsa.razor",
+              "ToolTip": "C:\\Users\\Ilhan\\source\\repos\\AspireBorsa\\AspireBorsa.Web\\Components\\Pages\\Canliborsa.razor",
+              "RelativeToolTip": "AspireBorsa.Web\\Components\\Pages\\Canliborsa.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T07:28:52.09Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

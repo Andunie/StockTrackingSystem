@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <IsAspireHost>true</IsAspireHost>
+    <UserSecretsId>8f6b7354-278c-4a0f-8e21-93317873b4ad</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AspireBorsa.ApiService\AspireBorsa.ApiService.csproj" />
+    <ProjectReference Include="..\AspireBorsa.Web\AspireBorsa.Web.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Aspire.Hosting.AppHost" Version="8.0.0" />
+  </ItemGroup>
+
+</Project>
